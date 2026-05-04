@@ -74,7 +74,7 @@ Update your `DBConnection.java`:
 ```java
 String url = "jdbc:mysql://localhost:3306/voting_db";
 String user = "root";
-String password = "your_password";
+String password = "Yashwanth@2005";
 ```
 
 ---
@@ -96,12 +96,6 @@ String password = "your_password";
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots here for better presentation*
-
----
-
 ## ⚠️ Known Issues
 
 * No authentication (anyone can vote multiple times)
@@ -120,25 +114,9 @@ String password = "your_password";
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repo and submit pull requests.
-
----
-
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
 ## 👨‍💻 Author
 
 **SACHIN US**
 
 ---
 
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
